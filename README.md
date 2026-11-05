@@ -126,7 +126,7 @@ flowchart LR
 
 For inquiries, white-label quotes, or custom deployment requests:
 
-* 💬 **Telegram:** [@YourTelegramHandle](https://t.me/)
+* 🤖 **Instant Automated Sales Bot:** [@liveline_sales_bot](https://t.me/liveline_sales_bot)
 * 🌐 **Live Demo:** [https://demo.liveline.in](https://demo.liveline.in)
 * 📥 **APK Download:** [https://demo.liveline.in/downloads/LiveLine-Admin.apk](https://demo.liveline.in/downloads/LiveLine-Admin.apk)
 
