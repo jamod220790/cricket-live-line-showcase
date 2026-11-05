@@ -3,11 +3,11 @@
 # 🏏 Ultra-Fast Cricket Live Line & Virtual Betting Platform
 ### Enterprise .NET 9 + Angular 18 + React Native Android Admin APK + PostgreSQL
 
-[![Instant Buy](https://img.shields.io/badge/Buy%20Source%20Code-Gumroad%20$99-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://rausticwayc.gumroad.com/l/ylwhbf)
+[![Instant Buy](https://img.shields.io/badge/Buy%20Source%20Code-Gumroad%20$99-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/l/ylwhbf)
 [![Live Web Demo](https://img.shields.io/badge/Live%20Demo-demo.liveline.in-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demo.liveline.in)
 [![Admin APK](https://img.shields.io/badge/Download-Admin%20APK%20(1.0.11)-38BDF8?style=for-the-badge&logo=android&logoColor=white)](https://demo.liveline.in/downloads/LiveLine-Admin.apk)
 [![Video Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DhjdDzdAiCg)
-[![License](https://img.shields.io/badge/License-Commercial%20Developer-F59E0B?style=for-the-badge)](https://rausticwayc.gumroad.com/l/ylwhbf)
+[![License](https://img.shields.io/badge/License-Commercial%20Developer-F59E0B?style=for-the-badge)](https://gumroad.com/l/ylwhbf)
 
 <p align="center">
   <b>Sub-Second Real-Time Ball-by-Ball Live Scoring, Micro-Market Wagering, and Risk-Controlled Settlement Engine</b><br>
@@ -42,7 +42,7 @@ You don't need to take our word for it. Test the production system live right no
 | **Android Admin APK (v1.0.11)** | [Download LiveLine-Admin.apk](https://demo.liveline.in/downloads/LiveLine-Admin.apk) | Direct APK download (47 MB) |
 | **Interactive Video Simulator** | [30s Side-by-Side Demo](https://demo.liveline.in/demo-video.html) | Automated visual test |
 | **YouTube Full Walkthrough** | [Watch on YouTube](https://youtu.be/DhjdDzdAiCg) | 1080p Video demo |
-| **Instant Source Code ($99)** | [Buy on Gumroad](https://rausticwayc.gumroad.com/l/ylwhbf) | Instant .ZIP Download |
+| **Instant Source Code ($99)** | [Buy on Gumroad](https://gumroad.com/l/ylwhbf) | Instant .ZIP Download |
 | **Admin Console Access** | In Admin App or Web Admin | `demo_admin` / `DemoPass#2026` |
 | **Player Account (With 10k Credits)** | In Web Client | `demo_user` / `DemoPass#2026` |
 
@@ -89,7 +89,7 @@ flowchart LR
 ## 🛒 Instant Purchase & Commercial Licensing
 
 ### ⚡ Option 1: Instant Source Code Download — `$99 Limited Launch Price`
-[![Buy on Gumroad](https://img.shields.io/badge/Instant%20Checkout-Buy%20on%20Gumroad%20($99)-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://rausticwayc.gumroad.com/l/ylwhbf)
+[![Buy on Gumroad](https://img.shields.io/badge/Instant%20Checkout-Buy%20on%20Gumroad%20($99)-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com/l/ylwhbf)
 
 * **Instant Digital Delivery:** Instant automatic download of `LiveLine-Complete-Package.zip` (71.4 MB).
 * **Complete Unlocked Codebase:** 100% full source code for ASP.NET Core 9 backend, Angular 18 web client, React Native mobile admin, and PostgreSQL schemas.
@@ -97,7 +97,7 @@ flowchart LR
 * **Turnkey Docker Setup:** 1-click `docker compose up -d` production deployment files.
 * **Full Documentation:** Offline HTML guide and step-by-step installation instructions.
 * **Commercial License:** Use on unlimited domains or resell to your own clients with zero recurring fees.
-* 👉 **[Click Here to Buy Now on Gumroad ($99)](https://rausticwayc.gumroad.com/l/ylwhbf)**
+* 👉 **[Click Here to Buy Now on Gumroad ($99)](https://gumroad.com/l/ylwhbf)**
 
 ---
 
