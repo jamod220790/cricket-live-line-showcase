@@ -3,10 +3,11 @@
 # 🏏 Ultra-Fast Cricket Live Line & Virtual Betting Platform
 ### Enterprise .NET 9 + Angular 18 + React Native Android Admin APK + PostgreSQL
 
+[![Instant Buy](https://img.shields.io/badge/Buy%20Source%20Code-Gumroad%20$99-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://rausticwayc.gumroad.com/l/ylwhbf)
 [![Live Web Demo](https://img.shields.io/badge/Live%20Demo-demo.liveline.in-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demo.liveline.in)
 [![Admin APK](https://img.shields.io/badge/Download-Admin%20APK%20(1.0.11)-38BDF8?style=for-the-badge&logo=android&logoColor=white)](https://demo.liveline.in/downloads/LiveLine-Admin.apk)
-[![License](https://img.shields.io/badge/License-Commercial%20%2F%20White--Label-F59E0B?style=for-the-badge)](https://t.me/)
-[![Telegram](https://img.shields.io/badge/Contact-Telegram%20Official-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Video Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DhjdDzdAiCg)
+[![License](https://img.shields.io/badge/License-Commercial%20Developer-F59E0B?style=for-the-badge)](https://rausticwayc.gumroad.com/l/ylwhbf)
 
 <p align="center">
   <b>Sub-Second Real-Time Ball-by-Ball Live Scoring, Micro-Market Wagering, and Risk-Controlled Settlement Engine</b><br>
@@ -40,6 +41,8 @@ You don't need to take our word for it. Test the production system live right no
 | **Live Web Portal (SSL)** | [https://demo.liveline.in](https://demo.liveline.in) | Open in browser |
 | **Android Admin APK (v1.0.11)** | [Download LiveLine-Admin.apk](https://demo.liveline.in/downloads/LiveLine-Admin.apk) | Direct APK download (47 MB) |
 | **Interactive Video Simulator** | [30s Side-by-Side Demo](https://demo.liveline.in/demo-video.html) | Automated visual test |
+| **YouTube Full Walkthrough** | [Watch on YouTube](https://youtu.be/DhjdDzdAiCg) | 1080p Video demo |
+| **Instant Source Code ($99)** | [Buy on Gumroad](https://rausticwayc.gumroad.com/l/ylwhbf) | Instant .ZIP Download |
 | **Admin Console Access** | In Admin App or Web Admin | `demo_admin` / `DemoPass#2026` |
 | **Player Account (With 10k Credits)** | In Web Client | `demo_user` / `DemoPass#2026` |
 
@@ -83,22 +86,32 @@ flowchart LR
 
 ---
 
-## 💼 Commercial Licensing & Pricing
+## 🛒 Instant Purchase & Commercial Licensing
 
-We offer two flexible licensing models for bookmakers, tipping communities, and software agencies:
+### ⚡ Option 1: Instant Source Code Download — `$99 Limited Launch Price`
+[![Buy on Gumroad](https://img.shields.io/badge/Instant%20Checkout-Buy%20on%20Gumroad%20($99)-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://rausticwayc.gumroad.com/l/ylwhbf)
 
-### 🔹 Option 1: Turnkey White-Label Setup — `$499 USDT` (or ₹40,000)
-* We deploy the complete solution on your VPS server within **24 hours**.
-* Custom domain configuration (e.g., `yourbrand.com`) with lifetime free SSL.
-* Customized brand logo, name, and color theme.
-* Compiled, branded Android Admin APK ready for distribution.
-* 30 Days of technical handover and onboarding support.
+* **Instant Digital Delivery:** Instant automatic download of `LiveLine-Complete-Package.zip` (71.4 MB).
+* **Complete Unlocked Codebase:** 100% full source code for ASP.NET Core 9 backend, Angular 18 web client, React Native mobile admin, and PostgreSQL schemas.
+* **Pre-compiled Android APK:** Signed v1.0.11 APK included.
+* **Turnkey Docker Setup:** 1-click `docker compose up -d` production deployment files.
+* **Full Documentation:** Offline HTML guide and step-by-step installation instructions.
+* **Commercial License:** Use on unlimited domains or resell to your own clients with zero recurring fees.
+* 👉 **[Click Here to Buy Now on Gumroad ($99)](https://rausticwayc.gumroad.com/l/ylwhbf)**
 
-### 🔹 Option 2: Full Unlocked Source Code — `$1,200 USDT` (or ₹1,00,000)
-* Complete, 100% unlocked source code repository (Backend, Web, Mobile App, Database Schema).
-* Zero monthly royalty fees.
-* Run on unlimited domains or resell to your own clients.
-* Full deployment guide and Docker configuration files included.
+---
+
+### 🔹 Option 2: Turnkey White-Label Setup Service — `$499 USDT` (or ₹40,000)
+* We deploy the complete solution on your own VPS within **24 hours**.
+* Custom domain configuration (e.g., `yourbrand.com`) with automated lifetime SSL.
+* Customized brand logo, platform name, and UI color theme.
+* Compiled, custom-branded Android Admin APK ready for release.
+* 30 Days of dedicated technical handover and onboarding support.
+
+---
+
+### 🔹 Option 3: Full Custom Enterprise Development — Custom Quote
+* Dedicated custom sports feeds, proprietary odds algorithms, or white-label mobile app store publication assistance.
 
 ---
 
@@ -121,3 +134,4 @@ For inquiries, white-label quotes, or custom deployment requests:
 <div align="center">
   <sub>© 2026 LiveLine Platform. Enterprise Live Sports Technology. All rights reserved.</sub>
 </div>
+
